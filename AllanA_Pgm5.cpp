@@ -1,6 +1,6 @@
-// Ashley Allan, 2228 CS 2010 Section 1004, MOWeFri 11:30am-12:20pm
+// Ashley Allan
 
-//Program 5: Books, File:AllanA_Pgm5, Due:10/30/2022
+//Program 5: Books, File:AllanA_Pgm5
 
 /*
 Purpose: To analyze and report the results of a reading competition
